@@ -5,4 +5,4 @@ Git is free software distributed under the GPL.
 
 Git is free software distributed under the GPL.
 
-change
+change Git tracks changes
